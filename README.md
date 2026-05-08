@@ -1,3 +1,31 @@
+## 🚀 ATLAS Agents — Launching Next Week
+
+The platform built on top of this repo is launching next week.
+
+**Three ways to use it:**
+
+1. **Copy ATLAS** — trade alongside the autoresearch system 
+   in this repo. Live signals, auto-execution, full 
+   transparency. Up 30% since launch.
+
+2. **Build your own** — describe a strategy in plain English, 
+   backtest on 18 months of real data, deploy live.
+
+3. **Marketplace** — publish your agent, earn when others 
+   copy it.
+
+SIMONS is already live on Kalshi prediction markets. 
+60% win rate.
+
+As a thank you for all the feedback, ideas, and support 
+that helped shape this project — we're giving the GitHub 
+community 20% off. Forever, not just the first month.
+
+→ **[atlasagents.co](https://atlasagents.co)**
+Use code **GITHUB20** at checkout. First 100 only.
+
+---
+
 # ATLAS - Self-Improving AI Trading Agents
 
 **Built by [General Intelligence Capital](https://generalintelligencecapital.com)**
